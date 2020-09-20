@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Still-Alive/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Still-Alive/static/js/main.96271c25.chunk.js",
+    "main.js.map": "/Still-Alive/static/js/main.96271c25.chunk.js.map",
+    "runtime-main.js": "/Still-Alive/static/js/runtime-main.36e8569a.js",
+    "runtime-main.js.map": "/Still-Alive/static/js/runtime-main.36e8569a.js.map",
+    "static/js/2.f110687e.chunk.js": "/Still-Alive/static/js/2.f110687e.chunk.js",
+    "static/js/2.f110687e.chunk.js.map": "/Still-Alive/static/js/2.f110687e.chunk.js.map",
+    "index.html": "/Still-Alive/index.html",
+    "precache-manifest.45f88264b7ab9527b0a0315fc84bbcee.js": "/Still-Alive/precache-manifest.45f88264b7ab9527b0a0315fc84bbcee.js",
+    "service-worker.js": "/Still-Alive/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Still-Alive/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f110687e.chunk.js.LICENSE.txt": "/Still-Alive/static/js/2.f110687e.chunk.js.LICENSE.txt",
+    "static/media/enemy.gif": "/Still-Alive/static/media/enemy.a7b42e09.gif",
+    "static/media/fireball.png": "/Still-Alive/static/media/fireball.72e67747.png",
+    "static/media/magic-spell.png": "/Still-Alive/static/media/magic-spell.8d08d775.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e8569a.js",
+    "static/js/2.f110687e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.96271c25.chunk.js"
+  ]
+}
